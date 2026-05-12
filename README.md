@@ -11,9 +11,12 @@
 </h2>
 
 <p>
-    I'm a Fullstack Developer passionate about building scalable and efficient backend systems using JavaScript and TypeScript. I focus on creating well-structured APIs, applying best practices, and working with modern technologies like NestJS and relational databases.
+    I'm a Fullstack Developer passionate about creating modern, efficient, and scalable web applications using JavaScript and TypeScript. I enjoy building both frontend interfaces and backend systems, focusing on clean code, performance, and maintainability.
 
-Currently studying Systems for the Internet, I’m constantly improving my skills through hands-on projects and real-world problem solving. My goal is to evolve into a high-level software engineer, delivering clean, maintainable, and impactful solutions.
+Currently studying Systems for the Internet, I’m constantly improving my development skills through practical projects, problem solving, and continuous learning. I have experience with technologies such as Node.js, TypeScript, SQL databases, Git, and modern web development tools.
+
+My goal is to become a highly skilled software engineer capable of building impactful digital solutions and contributing to innovative projects.
+
 </p>
 
 
