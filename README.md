@@ -53,9 +53,8 @@ const Lopes = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Gabriel-lopes06.com-5d5d5d?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=444444)](https://seu-portfolio.com)
-[![LinkedIn](https://www.linkedin.com/in/gabriel-lopes)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=444444)](https://www.linkedin.com/in/gabriel-lopes-04037b397/)
 
-[![Email](https://img.shields.io/badge/EMAIL-contact@ricardonsm.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444444)](mailto:gabriellopes0627@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-gabriellopes0627@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444444)](mailto:gabriellopes0627@gmail.com)
 
 </div>
